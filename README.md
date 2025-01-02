@@ -16,9 +16,9 @@ Different image analysis and machine-learning techniques have been used to addre
 Out of the 1200 given CAPTCHA images, 1000 images were separated for training and 200 for validation.
 
 # Preprocessing
-# Pattern Removal
+## Pattern Removal
 ![remove_pattern](https://github.com/user-attachments/assets/c9fa2134-3d96-4ad4-a371-89f19c04c8c7)
-# Noise Removal
+## Noise Removal
 ![remove_noise](https://github.com/user-attachments/assets/32bb4484-4351-460e-85c6-36f686d706f9)
 
 # Feature Extraction
