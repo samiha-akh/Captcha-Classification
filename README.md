@@ -22,12 +22,12 @@ Out of the 1200 given CAPTCHA images, 1000 images were separated for training an
 ![remove_noise](https://github.com/user-attachments/assets/32bb4484-4351-460e-85c6-36f686d706f9)
 
 # Feature Extraction
-Vector Representation of the Preprocessed Image
-Local Binary Pattern (LBP)
-Histogram of Oriented Gradients (HOG)
-Density Features
+* Vector Representation of the Preprocessed Image
+* Local Binary Pattern (LBP)
+* Histogram of Oriented Gradients (HOG)
+* Density Features
 
 # Model
-ADABoost model has been used 150 maximum number of splits.
+ADABoost model has been used with 150 maximum number of splits.
 The accuracy on the validation set is 90.00%. The accuracy on the held-out test set is 89.00%. A few tweakings have been done to achieve this accuracy.
 ![Accuracy](https://github.com/user-attachments/assets/b7cf04ae-57b2-4913-b753-7adac02835a9)
